@@ -1,7 +1,5 @@
 import random
 
-#test
-
 def rock_paper_scissors():
 
     """
